@@ -28,19 +28,19 @@ This project analyzes **Electric Vehicle (EV) sales and specifications** using P
 ![Top Manufacturers](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/d20f795451d840002c0ff5a756ade4edee08c8ca/Vehicle_Data_Analysis%201.png)
 
 ### 🔹 Battery Capacity vs Range
-![Battery vs Range](images/battery_vs_range.png)
+![Battery vs Range](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/fb824fb338cf51d4b5db2cb37838f2567b396819/Vehicle_Data_Analysis%202.png)
 
 ### 🔹 Price vs Range
-![Price vs Range](images/price_vs_range.png)
+![Price vs Range](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/fb824fb338cf51d4b5db2cb37838f2567b396819/Vehicle_Data_Analysis%203.png)
 
 ### 🔹 EV Sales by Country
-![Sales by Country](images/sales_by_country.png)
+![Sales by Country]([images/sales_by_country.png](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/fb824fb338cf51d4b5db2cb37838f2567b396819/Vehicle_Data_Analysis%204.png))
 
 ### 🔹 Autonomous Level vs Sales
-![Autonomous Impact](images/autonomous_vs_sales.png)
+![Autonomous Impact](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/fb824fb338cf51d4b5db2cb37838f2567b396819/Vehicle_Data_Analysis%205.png)
 
 ### 🔹 Safety Rating vs Sales
-![Safety Rating Impact](images/safety_vs_sales.png)
+![Safety Rating Impact](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/fb824fb338cf51d4b5db2cb37838f2567b396819/Vehicle_Data_Analysis%206.png)
 
 ---
 
