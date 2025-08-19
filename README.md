@@ -1,2 +1,60 @@
 # -Electric-Vehicle-EV-Data-Analysis-2024-
-This project analyzes **Electric Vehicle (EV) sales and specifications** using Python (Pandas, Matplotlib, Seaborn).   The dataset includes details about manufacturers, countries, battery specs, prices, safety ratings, autonomous levels, and sales numbers for 2024.  ---  ## 📂 Project Structure
+This project analyzes **Electric Vehicle (EV) sales and specifications** using Python (Pandas, Matplotlib, Seaborn).   The dataset includes details about manufacturers, countries, battery specs, prices, safety ratings, autonomous levels, and sales numbers for 2024.  ---  
+
+## 📂 Project Structure
+## ⚙️ Steps Performed
+
+### 1️⃣ Data Import & Exploration
+- Loaded dataset with **Pandas**
+- Inspected with `.head()`, `.info()`, `.describe()`
+
+### 2️⃣ Data Cleaning
+- Handled missing values (`dropna`)
+- Converted `Year` to integer
+- Removed duplicates
+- Converted numeric columns to proper dtype
+
+### 3️⃣ Analysis & Visualizations
+- **Top 10 Manufacturers by Sales**
+- **Battery Capacity vs Range** (with Battery Type & Price)
+- **Price vs Range Trade-offs**
+- **Sales by Country**
+- **Impact of Autonomous Level & Safety Rating on Sales**
+
+---
+
+## 📊 Visualizations
+
+### 🔹 Top Manufacturers by Sales
+![Top Manufacturers](images/top_manufacturers.png)
+
+### 🔹 Battery Capacity vs Range
+![Battery vs Range](images/battery_vs_range.png)
+
+### 🔹 Price vs Range
+![Price vs Range](images/price_vs_range.png)
+
+### 🔹 EV Sales by Country
+![Sales by Country](images/sales_by_country.png)
+
+### 🔹 Autonomous Level vs Sales
+![Autonomous Impact](images/autonomous_vs_sales.png)
+
+### 🔹 Safety Rating vs Sales
+![Safety Rating Impact](images/safety_vs_sales.png)
+
+---
+
+## 🛠️ Tech Stack
+- **Python 3**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+
+---
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/ev-analysis.git
+   cd ev-analysis
