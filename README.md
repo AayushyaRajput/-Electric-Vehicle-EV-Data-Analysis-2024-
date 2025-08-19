@@ -34,7 +34,7 @@ This project analyzes **Electric Vehicle (EV) sales and specifications** using P
 ![Price vs Range](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/fb824fb338cf51d4b5db2cb37838f2567b396819/Vehicle_Data_Analysis%203.png)
 
 ### 🔹 EV Sales by Country
-![Sales by Country]([images/sales_by_country.png](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/fb824fb338cf51d4b5db2cb37838f2567b396819/Vehicle_Data_Analysis%204.png))
+![Sales by Country](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/18d1378495cde632ff8e8b4ba0058ab74e2259a9/Vehicle_Data_Analysis%204.png)
 
 ### 🔹 Autonomous Level vs Sales
 ![Autonomous Impact](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/fb824fb338cf51d4b5db2cb37838f2567b396819/Vehicle_Data_Analysis%205.png)
