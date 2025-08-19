@@ -25,7 +25,7 @@ This project analyzes **Electric Vehicle (EV) sales and specifications** using P
 ## 📊 Visualizations
 
 ### 🔹 Top Manufacturers by Sales
-![Top Manufacturers](images/top_manufacturers.png)
+![Top Manufacturers](https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-/blob/d20f795451d840002c0ff5a756ade4edee08c8ca/Vehicle_Data_Analysis%201.png)
 
 ### 🔹 Battery Capacity vs Range
 ![Battery vs Range](images/battery_vs_range.png)
