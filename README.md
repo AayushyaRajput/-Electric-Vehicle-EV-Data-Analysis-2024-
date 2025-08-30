@@ -55,5 +55,5 @@ This project analyzes **Electric Vehicle (EV) sales and specifications** using P
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ev-analysis.git
+   git clone[https://github.com/AayushyaRajput/-Electric-Vehicle-EV-Data-Analysis-2024-]
    cd ev-analysis
